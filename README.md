@@ -20,10 +20,6 @@ I love to learn and build new, creative, and artistic projects.
 - C++ 
 - TypeScript
 
-  
-## 📚 Websites I Made
-
-- [safecloud.club](https://safecloud.club)
 
 ## 🚀 I’m eager to join new projects  
 I'm always open to collaborating on cool and meaningful software.
