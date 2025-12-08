@@ -35,12 +35,6 @@ When I’m not coding, you’ll find me Crafting Synths and midi controlers and 
 
 ---
 
-## 📫 Contact Me
-
-📧 charlygmn.dev@gmail.com
-
----
-
 ## 🛠 Skills
 
 ### 💡 Languages & Syntax
