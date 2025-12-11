@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charly
 
-I'm a recently graduated **Software Engineer** at [@42Paris](https://42.fr/).
+I'm a recently graduated **Software and Full-Stack Engineer** at [@42Paris](https://42.fr/).
 
 My goal is to strengthen my development skills and explore new technologies.  
 I love to learn and build new, creative, and artistic projects.
